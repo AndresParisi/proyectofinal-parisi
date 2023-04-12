@@ -1,0 +1,68 @@
+[
+  {
+    "imgSrc": "./images/products/keyboard-1.jpg",
+    "price": "20",
+    "title": "Tempest Cataclysm Combo 3 En 1 Gaming Teclado Rgb Switch Rojo",
+    "dataId": "1"
+  },
+  {
+    "imgSrc": "./images/products/keyboard-2.jpg",
+    "price": "35",
+    "title": "Newskill Suiko Ivory Teclado Mecánico Gaming Full RGB Switch Violeta",
+    "dataId": "2"
+  },
+  {
+    "imgSrc": "./images/products/keyboard-3.jpg",
+    "price": "15.50",
+    "title": "Aukey KM-G16 Teclado Mecánico Gaming Retroiluminado",
+    "dataId": "3"
+  },
+  {
+    "imgSrc": "./images/products/keyboard-5.jpg",
+    "price": "20.20",
+    "title": "Razer Huntsman Elite Teclado Mecánico Gaming RGB",
+    "dataId": "4"
+  },
+  {
+    "imgSrc": "./images/products/61V2O4vbYhL.jpg",
+    "price": "19",
+    "title": "Logitech G Pro X Teclado Mecánico Gaming RGB Switch Azul",
+    "dataId": "5"
+  },
+  {
+    "imgSrc": "./images/products/000000000000011900733TGA108 (1).jpg",
+    "price": "45",
+    "title": "Razer Huntsman Mini Teclado Mecánico Gaming RGB Switch Rojo",
+    "dataId": "6"
+  },
+  {
+    "imgSrc": "./images/products/81Vtb-0K3-L (1).jpg",
+    "price": "23.99",
+    "title": "Razer Huntsman Tkl 300 RGB Teclado Mecánico Gaming RGB Switch Rojo",
+    "dataId": "7"
+  },
+  {
+    "imgSrc": "./images/products/920-010533.jpg",
+    "price": "50",
+    "title": "Logitech G Pro League of Legends Mecánico Gaming RGB",
+    "dataId": "8"
+  },
+  {
+    "imgSrc": "./images/products/keyboard-4.jpg",
+    "price": "16",
+    "title": "Trust GXT 881 Odyss Teclado Gaming Semi-Mecánico RGB Switch Violeta",
+    "dataId": "9"
+  },
+  {
+    "imgSrc": "./images/products/imagen.jpg",
+    "price": "17.50",
+    "title": "Hyper Alloy Mecanico Gamig Rgb Switch Rojo Ultra Rapido",
+    "dataId": "10"
+  },
+  {
+    "imgSrc": "./images/products/keyboard-1.jpg",
+    "price": "45",
+    "title": "Corsair K55 RGB PRO XT Teclado Gaming Retroiluminado Negro",
+    "dataId": "11"
+  }
+]
